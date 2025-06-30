@@ -10,7 +10,7 @@ How to Set Up Your HP Smart Printer with 123.hp.com/setup?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_5.png
    :width: 350px
    :align: center
    :height: 100px
