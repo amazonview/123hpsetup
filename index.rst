@@ -1,5 +1,5 @@
 ##################
-How to Set Up Your HP Smart Printer with 123.hp.com/setup?
+How to Easily Install Your HP Smart Printer Using 123.hp.com/setup
 ##################
 
 .. meta::
